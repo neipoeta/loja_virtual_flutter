@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136662054396",
+    "project_id": "loja-virtual-flutter-1b863",
+    "storage_bucket": "loja-virtual-flutter-1b863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136662054396:android:ad543d00f0bf12e6622e79",
+        "android_client_info": {
+          "package_name": "br.com.neipoeta.loja_virtual_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136662054396-ucl4p8o8590n1hnu15ibfg5nvtfm2vd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyYk1H0lDsGPl3q-mr1jPnILWv-CBmw9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136662054396-ucl4p8o8590n1hnu15ibfg5nvtfm2vd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
